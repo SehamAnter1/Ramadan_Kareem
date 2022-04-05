@@ -1,6 +1,30 @@
 #include <iostream>
 using namespace std;
-
+/*
+Ramadan Kareem
+          *
+         ***
+        *****
+       *******
+      *       *
+     *         *
+    *           *
+   *             *
+  *               *
+ * Ramadan Kareem  *
+  *               *
+   *             *
+    *           *
+     *         *
+      *       *
+       *******
+        *****
+         ***
+          *
+         ***
+        ** **
+       **   **
+*/
 #define mod 1000000007
 #define run() ios::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 #define F first
